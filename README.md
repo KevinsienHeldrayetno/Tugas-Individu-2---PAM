@@ -1,8 +1,8 @@
 # Tugas Individu 2
 ## Rangkuman Materi JavaScript
 
-Nama  : Kevinsien Heldrayetno
-NIM   : 120140174
+Nama  : Kevinsien Heldrayetno\
+NIM   : 120140174\
 Kelas : RB
 
 ## Closure
