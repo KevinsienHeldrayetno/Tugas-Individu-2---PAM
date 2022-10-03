@@ -109,3 +109,13 @@ function calfun() {
 greet('Peter', calfun);
 ```
 
+
+# Refrensi
+https://www.programiz.com/javascript
+https://www.javatpoint.com
+https://stackabuse.com/javascripts-immediately-invoked-function-expressions/
+https://www.geeksforgeeks.org/
+https://www.w3schools.com/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
