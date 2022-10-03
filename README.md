@@ -3,7 +3,7 @@
 
 Nama  : Kevinsien Heldrayetno\
 NIM   : 120140174\
-Kelas : RB
+Kelas : RA
 
 ## Closure
 Closure merupakan suatu fungsi sebagai fungsi outer yang memiliki fungsi inner yang dapat mengakses baik fungsi dari outer, maupun variabel yang terdapat secara lokal maupun global. Closure dibuat ketika fungsi child menyimpan lingkup fungsi induk bahkan setelah fungsi induk telah dijalankan.
